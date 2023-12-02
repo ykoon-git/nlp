@@ -1,0 +1,17 @@
+Internet access state,Device Type,Client Name,Client IP address,IP Method,Clients MAC Address,Interface,Tx Rate,Rx Rate,Access time
+Allow Internet access,WESTERN DIGITAL,WDMyCloud,192.168.1.150,MAC-IP Binding,00:90:A9:D5:D7:59,Wired,-,-,-
+Allow Internet access,Loading manufacturer..,BapuriWatch,192.168.1.20,Automatic IP,2C:7C:F2:5B:A9:70,2.4 GHz,72.2,11,00:24:12
+Allow Internet access,Apple Inc.,YK-MacBook,192.168.1.32,MAC-IP Binding,F0:18:98:34:D4:40,2.4 GHz,130,24,00:24:34
+Allow Internet access,Loading manufacturer..,Philips Wiz - Room 1,192.168.1.151,Automatic IP,2E:21:5A:27:F7:86,2.4 GHz,130,130,00:12:58
+Allow Internet access,WiZ,Philips Wiz - Room 2,192.168.1.160,Automatic IP,44:4F:8E:18:FD:28,2.4 GHz,52,1,00:11:39
+Allow Internet access,Loading manufacturer..,Petkit_D4,192.168.1.175,Automatic IP,54:43:B2:04:D0:D4,2.4 GHz,65,6,00:08:05
+Allow Internet access,dhcpcd-5.2.12:Linux-4.14.74:aar,robot-lulu,192.168.1.204,Automatic IP,88:12:AC:2B:E2:43,2.4 GHz,65,72.2,00:24:43
+Allow Internet access,Hangzhou BroadLink Technology Co. Ltd.,Osram Red - Room 1,192.168.1.227,Automatic IP,EC:0B:AE:A5:FC:7C,2.4 GHz,65,52,00:24:25
+Allow Internet access,Apple Inc.,YK-PadPro,192.168.1.247,Automatic IP,78:7B:8A:59:D1:B4,2.4 GHz,144.4,130,00:24:39
+Allow Internet access,Apple Inc.,YK-Pro-Max,192.168.1.252,Automatic IP,5C:87:30:B4:65:42,2.4 GHz,195,24,00:23:44
+Allow Internet access,Apple Inc.,iPhone-2,192.168.1.169,Automatic IP,04:72:95:21:77:70,5 GHz,340.3,324.3,00:14:43
+Allow Internet access,Apple Inc.,koko-aipon6S,192.168.1.201,Automatic IP,6C:8D:C1:1A:C9:E6,5 GHz,702,24,00:23:42
+Allow Internet access,Apple Inc.,M1 Macbook,192.168.1.226,Automatic IP,C8:89:F3:BB:BA:77,5 GHz,648.5,195,00:23:32
+Allow Internet access,MSFT 5.0,BapuriNote,192.168.1.230,Automatic IP,F0:77:C3:53:3B:85,5 GHz,2401.9,2161.8,00:23:53
+Allow Internet access,Apple Inc.,yjunho,192.168.1.233,Automatic IP,18:3E:EF:E0:51:CB,5 GHz,1134.2,6,00:23:14
+Allow Internet access,MSFT 5.0,YK-Game,192.168.1.236,Automatic IP,B0:DC:EF:2F:8E:E2,5 GHz,1441.2,1088.9,00:01:23
